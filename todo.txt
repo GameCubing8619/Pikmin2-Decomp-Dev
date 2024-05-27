@@ -2,3 +2,26 @@ test on sysGCU stuff
 get a better grasp of the raw compiled asm for decomping
 finsh reading back up on the documentation
 test on og and hondi shotgun stuff
+
+the hit list
+/asm/sysGCU/system.o\
+/asm/sysGCU/section.o\
+/asm/sysGCU/graphics.o\
+/asm/sysGCU/matMath.o\
+/asm/sysGCU/moviePlayer.o\
+/asm/sysGCU/JSTObjectActor.o\
+/asm/sysGCU/JSTObjectCamera.o\
+/asm/sysGCU/JSTObjectGameActor.o\
+/asm/sysGCU/JSTObjectSystem.o\
+/asm/sysGCU/aramMgr.o\
+/asm/sysGCU/resourceMgr.o\
+/asm/sysGCU/movieMessage.o\
+/asm/sysGCU/messageRendering.o\
+/asm/sysGCU/sysShapeModel.o\
+/asm/sysGCU/windowMessage.o\
+/asm/sysGCU/memoryCard.o\
+/asm/sysGCU/pikmin2MemoryCardMgr.o\
+/asm/sysGCU/bootSection.o\
+/asm/sysGCU/titleSection.o\
+/asm/sysGCU/loadResource.o\
+/asm/sysGCU/JSTObjectParticleActor.o\
