@@ -25,3 +25,5 @@ the hit list
 /asm/sysGCU/titleSection.o\
 /asm/sysGCU/loadResource.o\
 /asm/sysGCU/JSTObjectParticleActor.o\
+/asm/plugProjectOgawaU/ogObjSMenuMap.o\
+/asm/plugProjectNishimuraU/HoudaiShotGun.o\
