@@ -1,0 +1,4 @@
+test on sysGCU stuff
+get a better grasp of the raw compiled asm for decomping
+finsh reading back up on the documentation
+test on og and hondi shotgun stuff
